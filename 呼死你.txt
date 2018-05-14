@@ -1,0 +1,58 @@
+根据现有需求及资源，必须要预研如何实现短信的发送、电话呼叫功能，考虑可以从三个方向：
+第一，通过网络搜索大量的免费短信、电话的网址，通过软件的形式进行批量投递，这个办法面临问题是：功能完全免费使用，但软件后期面临开发维护成本过高、链接失效就必须重新获取，软件运行效率比较低，投递量有限制，使用效果得不到保证，并且网络延迟均有影响使用效果；
+第二，通过现有网络电话软件，结合网络电话的短信、电话功能，调用第三方的API的形式进行二次开发，这个办法存在问题是，软件的短信、电话呼叫功能可能面临资费的风险，软件使用时必须联网使用。
+第三，通过购买短信猫之类的设备集成，通过软件模拟手机使用短信猫的短信、电话相关功能，面临问题是，短信猫需要购买SIM卡才能使用，短信需要包月资费等；、、、
+
+
+广西壮族自治区南宁市青秀区半山半岛c6栋501室（英华路）
+18377167071
+
+
+微信公众号
+扫一扫
+https://mp.weixin.qq.com/
+2868454353@qq.com
+
+gaoer1936510
+
+账号名称：goodisi
+
+
+
+
+
+
+文档：
+http://wiki.teegon.com/images/8/80/%E5%A4%A9%E5%B7%A5%E7%BD%91%E7%AB%99%E6%94%B6%E9%93%B6%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.pdf
+
+http://wiki.teegon.com/images/1/1b/%E5%A4%A9%E5%B7%A5%E7%A7%BB%E5%8A%A8%E7%BD%91%E7%AB%99%E6%94%B6%E9%93%B6%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.pdf
+
+
+
+支付接口：https://opennew.teegon.com/apis/detail/k3Rk45B?api=teegon.payment.charge.pay
+亲爱的客户：
+
+天工帐号已整合shopex-id与云起ID，如果shopex-id
+
+与天工密码不同, 请尝试重置密码后登录。
+
+
+街舞
+http://www.iqiyi.com/w_19rt32xrvx.html
+http://www.iqiyi.com/w_19rqyhsqil.html
+http://www.iqiyi.com/w_19rt32xrvx.html
+
+http://www.xmdnads.com/newde/82.html
+
+
+
+
+$UI/Lesbian/index/htm/img/love_heart_24px.png
+
+
+
+	var url = require.toUrl("./json/friendData.json");
+		$.ajaxSettings.async = false;
+		$.getJSON(url,function(data){
+			event.source.loadData(data);
+		});
