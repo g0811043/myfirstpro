@@ -1,4 +1,4 @@
-package com.example.demoweb.controller;
+﻿package com.example.demoweb.controller;
 
 import com.example.demoweb.bean.Subject;
 import com.example.demoweb.bean.User;
@@ -38,5 +38,10 @@ public class UserController {
         subject.setType("教育");
         subjectService.addSubject(subject);*/
         userService.addUserAndSubject();
+    }
+     @GetMapping("/user/update")
+    public void  update(){
+       List<User> users = userService.selectUser();
+       System.out.println("查询到的User数据为："+users);
     }
 }
