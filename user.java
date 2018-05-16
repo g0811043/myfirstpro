@@ -49,4 +49,10 @@ public class UserController {
        List<User> users = userService.selectUser();
        System.out.println("查询到的User数据为："+users);
     }
+//==============add=================================
+  @GetMapping("/user/update2")
+    public void  update(){
+       List<User> users = userService.selectUser();
+       System.out.println("查询到的User数据为："+users);
+    }
 }
